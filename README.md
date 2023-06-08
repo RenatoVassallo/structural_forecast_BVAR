@@ -1,5 +1,5 @@
 # structural_forecast_BVAR
-User Guide for "Macroeconomic Effects of Economic Policy Uncertainty Shocks in US"
+User Guide for "Structural macroeconomic forecasting using a text-based measure of policy uncertainty"
 Last version: June 08, 2023
 
 Contact: 
